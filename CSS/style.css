@@ -1,0 +1,42 @@
+* {
+
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.formRegis {
+
+    background-color: beige;
+    width: 400px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 15px;
+}
+
+.formRegis h3 {
+
+    font-size: 28px;
+    color: rgb(243, 132, 6);
+
+}
+
+.entrada {
+
+    width: 400px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid rgb(226, 226, 18);
+    background-color: rgb(241, 241, 234);
+    margin-bottom: 15px;
+}
+
+.enviar {
+
+    width: 225px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid rgb(226, 226, 18);
+    background-color: rgb(241, 241, 234);
+}
